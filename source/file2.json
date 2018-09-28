@@ -1,3 +1,4 @@
 {
-  "foo": "Hello {user}"
+  "foo": "Hello {user}",
+  "foo1": "Good morning"
   }
